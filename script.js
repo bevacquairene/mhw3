@@ -8,7 +8,6 @@ const client_id='afdf5df9136b739';
 const client_secret='06943ed7b8caec2c6373006e9172454af617282e';
 const refresh_token= '2517b4cb2b7def3e4ca15c320f77e6bb84f3b869';
 
-//const ebird_api='8os3839rgj4n';
 
 let token;
 
